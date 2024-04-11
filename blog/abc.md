@@ -1,1 +1,3 @@
-test
+`[[docs]]` [[docs]]
+
+`[docs](../docs)` [docs](../docs)
