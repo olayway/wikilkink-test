@@ -71,3 +71,5 @@ const ExampleCode = () => {
 
 `[docs page](/docs)` [docs page](/docs)
 
+`[blog/abc page](blog/abc)` [blog/abc page](blog/abc)
+
