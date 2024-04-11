@@ -63,6 +63,8 @@ const ExampleCode = () => {
 
 `[[./docs|docs page]]` [[./docs|docs page]]
 
+`[[/docs|docs page]]` [[/docs|docs page]]
+
 `[docs page](./docs)` [docs page](./docs)
 
 `[docs page](docs)` [docs page](docs)
