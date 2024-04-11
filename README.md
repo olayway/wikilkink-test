@@ -59,11 +59,13 @@ const ExampleCode = () => {
 };
 ```
 
-## To read more about how this works, refer to the [[docs|docs page]].
+`[[docs|docs page]]` [[docs|docs page]]
 
-## To read more about how this works, refer to the [[./docs|docs page]].
+`[[./docs|docs page]]` [[./docs|docs page]]
 
-## To read more about how this works, refer to the [docs page](./docs).
+`[docs page](./docs)` [docs page](./docs)
 
-## To read more about how this works, refer to the [docs page](docs).
+`[docs page](docs)` [docs page](docs)
+
+`[docs page](/docs)` [docs page](/docs)
 
