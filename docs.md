@@ -2,6 +2,8 @@
 
 [[test]]
 
+[test](./test)
+
 test
 
 # Docs 
